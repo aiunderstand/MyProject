@@ -20,7 +20,7 @@ use MicroBit;
 procedure Main with Priority => 0 is
 
 begin
-   PutLine (" <-- The zero means: Let's get started...");
+   Put_Line (" <-- The zero means: Let's get started...");
    Put_Line (" <-- The zero means: Let's get started...");
    loop
       null;
