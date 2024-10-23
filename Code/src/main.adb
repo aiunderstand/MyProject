@@ -21,6 +21,8 @@ procedure Main with Priority => 0 is
 
 begin
    Put_Line (" <-- The zero means: Let's get started...");
+   Put_Line (" <-- The zero means: Let's get started...");
+   Put_Line (" <-- The zero means: Let's get started...");
    loop
       null;
    end loop;
